@@ -28,3 +28,5 @@ Thank you very much for checking out my video, please comment, rate and subscrib
 My Website: http://masterascendant.x10.mx/
 
 and Facebook: https://www.facebook.com/MasterAscendant/
+
+- Steven
