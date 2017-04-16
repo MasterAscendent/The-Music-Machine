@@ -5,7 +5,7 @@ An Open Source Community-driven Audio Programming Project
 
 https://youtu.be/_kCmRD5EbUw?list=PLG5DX7ZC4RwODFnWYStF_9quGC0TBbsc5
 
-Hello, everybody. My name is Steven, I'm a new wannabe hardware/ software engineer & developer, audio programmer, etc. and I'm looking for direction as to where I can go to learn more about becoming a professional audio programmer, etc.
+Hello, Everybody. My name is Steven, I'm a new wannabe hardware/ software engineer & developer, audio programmer, etc. and I'm looking for direction as to where I can go to learn more about becoming a professional audio programmer, etc.
 
 I'm wanting to get into a C++ framework named JUCE: (http://www.juce.com) but can't seem to find too many resources so I thought I would reach out to whomever is out there and see if I can get pointed in the right direction.
 
